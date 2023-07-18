@@ -1,7 +1,7 @@
 ## Goal
 - For this project I was tasked with organizing and analyzing a database of 1,000 sample crowdfunding campaigns.
 - The analysis was to determine whether past projects met or exceeded the initial goal to determine what attributes led to past projects receiving funding.
-- To complete this analysis and uncover any possible trends, I was to utilize Excel conditional formatting, pivot tables, and visualizations
+- To complete this analysis and uncover any possible trends, I was to utilize Excel conditional formatting, pivot tables, and visualizations.
 
 ## Method
 - First, I obtained the provided dataset for analysis and modification
